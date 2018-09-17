@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="advertisement">
+            <head>BARNUM'S AMERICAN MUSEUM</head>
+            <ab>PERFORMANCES
+            <lb/>AFTERNOON &amp; EVENING
+            <lb/>SECOND WEEK
+            <lb/>Of the EXTRAORDINARY ATTRACTIVE Domestic Drama of
+            <lb/>NEIGHBOR
+            <lb/>JACKWOOD
+            <lb/>The Success of which is truly
+            <lb/>Brilliant beyond all Parallel
+            <lb/>And the interest of which
+            <lb/>SURPASSES IN POWER AND INTENSITY
+            <lb/>Everything in the History of the Modern Stage.
+            <lb/>THIS
+            <lb/>AFTERNOON &amp; EVENING
+            <lb/>One of the most
+            <lb/>Thrilling Life Stories
+            <lb/>EVER PRESENTED.
+            <lb/>WEDNESDAY
+            <lb/><date when="1857-05-13">May 13th, 1857</date>
+            <lb/>This Afternoon at 2 1/2 o'clock,
+            <lb/>(Instead of 3, on account of the length of the performance.) and also this
+            <lb/>Evening at 7 1/2 o'clock,
+            <lb/>The new domestic Drama, in five acts, by J. T. Trowbridge, Esq., entitled
+            <lb/>NEIGHTBOR
+            <lb/>JACKWOOD</ab>
+            <floatingText><body><div type="castList"></div></body></floatingText>
+            <ab></ab>
+         </div>
+         
+         
+      </body>
+   </text>
+</TEI>
