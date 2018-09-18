@@ -15,12 +15,29 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <interpretation>
+               <ab>
+                  <interpGrp type="fonts">
+                     <interp xml:id="serif">Fonts that are serif</interp>
+                     <interp xml:id="sansSerif">Fonts that are sans serif</interp>
+                     <interp xml:id="border">Fonts that have a border</interp>
+                     <interp xml:id="small">Fonts that are small-ish</interp>
+                     <interp xml:id="medium">Fonts that are medium</interp>
+                     <interp xml:id="large">Fonts that are large</interp>
+                     <interp xml:id="decorative">Fonts that have unique decoration</interp>
+                  </interpGrp>
+               </ab>
+            </interpretation>
+         </editorialDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
-      <body>
+      <body rend="align(center)">
          <div type="advertisement">
-            <head>BARNUM'S
-               <lb/>AMERICAN MUSEUM
+            <head rend="case(allcaps)"><hi ana="#medium #serif">Barnum's</hi>
+               <lb/>American Museum
             </head>
             <ab>PERFORMANCES
                <lb/>AFTERNOON &amp; EVENING

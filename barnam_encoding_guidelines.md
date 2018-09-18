@@ -56,7 +56,43 @@ Encode dates with the `<date>` element. Provide a regularized version of the dat
 * Poems - use `<lg>` (line group)
 * Poetic lines - use `<l>` (for line)
 
-Leave `<div type="castList">` empty for now
+## Rendition
+
+We will use the `@rend` attribute to encode most of the rendition for this document, using renditional ladders. Renditional ladders are ways of specifying information about the appearance and physical rendition of documents. The are encoded with the format of `keyword(argument)`. Rendition ladders can be stacked on top of each other, as in the following example:
+
+```
+<hi rend="case(allcaps)align(center)slant(italic)">Chapter I.</hi>
+```
+
+Keywords each have a specific set of arguments that they can take. The following is a list of keywords and their arguments:
+
+* `align()` (for text alignment)
+  * `center`
+  * `left` (default)
+  * `right` 
+* `break()` (for whether the feature starts on a new line)
+  * `yes`
+  * `no`
+* `case()` (i.e. upper-, lower-, etc.)
+  * `allcaps`
+  * `mixed` (default)
+  * `smallcaps`
+* `fill()` (fills everything between the current element and the next element with some character, line, etc.)
+  * fills with the character placed in the parentheses (e.g. `fill(-)` would fill everything between two elements with dashes)
+  * `#rule` (fills with a ruled line)
+  * `#ornament` (fills everything with some ruled ornament)
+* `indent()`
+  * takes a number as its argument 
+* `pre()`
+  * same args as `fill()`
+  * you may want to use `“` as argument for quotes
+* `post()`
+  * same args as `fill()`
+  * you may want to use `"` for quotes
+  * for notes, you could use `*` or superscripted numbers 
+* `slant()` 
+  * `italic`
+  * `upright` (default)
 
 
 
