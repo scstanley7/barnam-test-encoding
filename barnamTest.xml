@@ -67,37 +67,35 @@
                <floatingText>
                   <body>
                      <div type="castList">
-                        <!--should these castItems be seperated by <lb/>?-->
-                        <castList><!--not sure how to handle lines of dots, so i just put ellipses in to mark them-->
-                           <castItem>Neighbor Jackwood...Mr. C. W. Clarke</castItem>
-                           <castItem>Hector Dunbury...Mr. Levick</castItem>
+                        <castList>
+                           <castItem><role>Neighbor Jackwood</role><actor>Mr. C. W. Clarke</actor></castItem>
+                           <castItem><role>Hector Dunbury</role><actor>Mr. Levick</actor></castItem>
                            <cb n="1"/>
-                              <castItem>Enos Crumlett..Mr.Hadaway</castItem>
-                              <castItem>Squire Greenwich...Mr. J. Lingard</castItem>
-                              <castItem>Robert Greenwich...Mr. E. F. Taylor</castItem>
-                              <castItem>Abimelech...Miss Orten</castItem>
-                              <castItem>Mr. Rukey...Mr. Havelock</castItem>
-                              <castItem>Dickson...Mr. Bridgeman</castItem>
+                              <castItem><role>Enos Crumlett</role><actor>Mr.Hadaway</actor></castItem>
+                              <castItem><role>Squire Greenwich</role><actor>Mr. J. Lingard</actor></castItem>
+                              <castItem><role>Robert Greenwich</role><actor>Mr. E. F. Taylor</actor></castItem>
+                              <castItem><role>Abimelech</role><actor>Miss Orten</actor></castItem>
+                              <castItem><role>Mr. Rukey</role><actor>Mr. Havelock</actor></castItem>
+                              <castItem><role>Dickson</role><actor>Mr. Bridgeman</actor></castItem>
                            <cb n="2"/>
-                              <castItem>Oliver Dole...Mr. J. Herbert</castItem>
-                              <castItem>Landlord...Mr. Duncalf</castItem>
-                              <castItem>Sheriff...Mr. Cunningham</castItem>
-                              <castItem>Lawyer...Mr. Gowan</castItem>
-                              <castItem>1st Lounger...Mr. Henry</castItem>
-                              <castItem>2nd Lounger...Mr. Gritman</castItem>
-                           <castItem>Camille, (Charlotte)...Miss Mestayer</castItem>
+                              <castItem><role>Oliver Dole</role><actor>Mr. J. Herbert</actor></castItem>
+                              <castItem><roleDesc>Landlord</roleDesc><actor>Mr. Duncalf</actor></castItem>
+                              <castItem><roleDesc>Sheriff</roleDesc><actor>Mr. Cunningham</actor></castItem>
+                              <castItem><roleDesc>Lawyer</roleDesc><actor>Mr. Gowan</actor></castItem>
+                              <castItem><roleDesc>1st Lounger</roleDesc><actor>Mr. Henry</actor></castItem>
+                              <castItem><roleDesc>2nd Lounger</roleDesc><actor>Mr. Gritman</actor></castItem>
+                              <castItem><role>Camille, (Charlotte)</role><actor>Miss Mestayer</actor></castItem>
                            <cb n="1"/>
-                              <castItem>Mrs. Jackwood...Miss Palmer</castItem>
-                              <castItem>Grandmother Rigglesty...Mrs. France</castItem>
-                              <castItem>Matilda Fosdick...Mrs. Eldridge</castItem>
-                              <!--not sure if oe below is a printing mistake or actual spelling with the special character-->
-                              <castItem>Ph&#339;be Jackson...Miss A. France</castItem>
+                              <castItem><role>Mrs. Jackwood</role><actor>Miss Palmer</actor></castItem>
+                              <castItem><role>Grandmother Rigglesty</role><actor>Mrs. France</actor></castItem>
+                              <castItem><role>Matilda Fosdick</role><actor>Mrs. Eldridge</actor></castItem>
+                              <castItem><role>Ph&#339;be Jackson</role><actor>Miss A. France</actor></castItem>
                            <cb n="2"/>
-                              <castItem>Bertha Rukely...Mrs.Lingard</castItem>
-                              <castItem>Mrs. Greenwich...Mrs. Dickson</castItem>
-                              <castItem>Etty Greenwich...Miss Sheffield</castItem>
-                              <castItem>Mrs Sperkley...Miss Leslie</castItem>
-                           <castItem><roleDesc>Villagers,</roleDesc></castItem><castItem><roleDesc>Sheriff's Officers,</roleDesc></castItem><castItem><roleDesc>Yankee Gals, &amp;c.</roleDesc></castItem>
+                              <castItem><role>Bertha Rukely</role><actor>Mrs.Lingard</actor></castItem>
+                              <castItem><role>Mrs. Greenwich</role><actor>Mrs. Dickson</actor></castItem>
+                              <castItem><role>Etty Greenwich</role><actor>Miss Sheffield</actor></castItem>
+                              <castItem><role>Mrs Sperkley</role><actor>Miss Leslie</actor></castItem>
+                              <castItem><roleDesc>Villagers,</roleDesc></castItem><castItem><roleDesc>Sheriff's Officers,</roleDesc></castItem><castItem><roleDesc>Yankee Gals, &amp;c.</roleDesc></castItem>
                         </castList>
                      </div>
                   </body>
@@ -161,8 +159,7 @@
             </ab>
             <floatingText>
                <body>
-                  <lg><!--I didn't know how to recreate the super long dash so I just consistently 
-                     put five in a row-->
+                  <lg><!--I didn't know how to recreate the super long dash so I just put five in a row-->
                      <l>"-----Extended long and large,</l>
                      <l>Lay floating many a rood ; in bulk as large</l>
                      <l>As whom the fables named -----</l>
