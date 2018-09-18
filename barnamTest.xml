@@ -49,7 +49,40 @@
             </ab>
                <floatingText>
                   <body>
-                     <div type="castList"></div>
+                     <div type="castList">
+                        <!--should these castItems be seperated by <lb/>?-->
+                        <castList><!--not sure how to handle lines of dots, so i just put ellipses in to mark them-->
+                           <castItem>Neighbor Jackwood...Mr. C. W. Clarke</castItem>
+                           <castItem>Hector Dunbury...Mr. Levick</castItem>
+                           <cb n="1"/>
+                              <castItem>Enos Crumlett..Mr.Hadaway</castItem>
+                              <castItem>Squire Greenwich...Mr. J. Lingard</castItem>
+                              <castItem>Robert Greenwich...Mr. E. F. Taylor</castItem>
+                              <castItem>Abimelech...Miss Orten</castItem>
+                              <castItem>Mr. Rukey...Mr. Havelock</castItem>
+                              <castItem>Dickson...Mr. Bridgeman</castItem>
+                           <cb n="2"/>
+                              <castItem>Oliver Dole...Mr. J. Herbert</castItem>
+                              <castItem>Landlord...Mr. Duncalf</castItem>
+                              <castItem>Sheriff...Mr. Cunningham</castItem>
+                              <castItem>Lawyer...Mr. Gowan</castItem>
+                              <castItem>1st Lounger...Mr. Henry</castItem>
+                              <castItem>2nd Lounger...Mr. Gritman</castItem>
+                           <castItem>Camille, (Charlotte)...Miss Mestayer</castItem>
+                           <cb n="1"/>
+                              <castItem>Mrs. Jackwood...Miss Palmer</castItem>
+                              <castItem>Grandmother Rigglesty...Mrs. France</castItem>
+                              <castItem>Matilda Fosdick...Mrs. Eldridge</castItem>
+                              <!--not sure if oe below is a printing mistake or actual spelling with the special character-->
+                              <castItem>Ph&#339;be Jackson...Miss A. France</castItem>
+                           <cb n="2"/>
+                              <castItem>Bertha Rukely...Mrs.Lingard</castItem>
+                              <castItem>Mrs. Greenwich...Mrs. Dickson</castItem>
+                              <castItem>Etty Greenwich...Miss Sheffield</castItem>
+                              <castItem>Mrs Sperkley...Miss Leslie</castItem>
+                           <castItem><roleDesc>Villagers,</roleDesc></castItem><castItem><roleDesc>Sheriff's Officers,</roleDesc></castItem><castItem><roleDesc>Yankee Gals, &amp;c.</roleDesc></castItem>
+                        </castList>
+                     </div>
                   </body>
                </floatingText>
             <ab>New Scenery Incidental to the Piece.
