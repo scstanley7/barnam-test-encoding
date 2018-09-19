@@ -73,39 +73,39 @@
                            <castItem><role>Neighbor Jackwood</role><actor>Mr. C. W. Clarke</actor></castItem>
                            <castItem><role>Hector Dunbury</role><actor>Mr. Levick</actor></castItem>
                            <cb n="1"/>
-                              <castItem><role>Enos Crumlett</role><actor>Mr.Hadaway</actor></castItem>
-                              <castItem><role>Squire Greenwich</role><actor>Mr. J. Lingard</actor></castItem>
-                              <castItem><role>Robert Greenwich</role><actor>Mr. E. F. Taylor</actor></castItem>
-                              <castItem><role>Abimelech</role><actor>Miss Orten</actor></castItem>
-                              <castItem><role>Mr. Rukey</role><actor>Mr. Havelock</actor></castItem>
-                              <castItem><role>Dickson</role><actor>Mr. Bridgeman</actor></castItem>
+                              <castItem><role rend="fill(.)">Enos Crumlett</role><actor>Mr.Hadaway</actor></castItem>
+                              <castItem><role rend="fill(.)">Squire Greenwich</role><actor>Mr. J. Lingard</actor></castItem>
+                              <castItem><role rend="fill(.)">Robert Greenwich</role><actor>Mr. E. F. Taylor</actor></castItem>
+                              <castItem><role rend="fill(.)">Abimelech</role><actor>Miss Orten</actor></castItem>
+                              <castItem><role rend="fill(.)">Mr. Rukey</role><actor>Mr. Havelock</actor></castItem>
+                              <castItem><role rend="fill(.)">Dickson</role><actor>Mr. Bridgeman</actor></castItem>
                            <cb n="2"/>
-                              <castItem><role>Oliver Dole</role><actor>Mr. J. Herbert</actor></castItem>
-                              <castItem><roleDesc>Landlord</roleDesc><actor>Mr. Duncalf</actor></castItem>
-                              <castItem><roleDesc>Sheriff</roleDesc><actor>Mr. Cunningham</actor></castItem>
-                              <castItem><roleDesc>Lawyer</roleDesc><actor>Mr. Gowan</actor></castItem>
-                              <castItem><roleDesc>1st Lounger</roleDesc><actor>Mr. Henry</actor></castItem>
-                              <castItem><roleDesc>2nd Lounger</roleDesc><actor>Mr. Gritman</actor></castItem>
-                              <castItem><role>Camille, (Charlotte)</role><actor>Miss Mestayer</actor></castItem>
+                              <castItem><role rend="fill(.)">Oliver Dole</role><actor>Mr. J. Herbert</actor></castItem>
+                              <castItem><roleDesc rend="fill(.)">Landlord</roleDesc><actor>Mr. Duncalf</actor></castItem>
+                              <castItem><roleDesc rend="fill(.)">Sheriff</roleDesc><actor>Mr. Cunningham</actor></castItem>
+                              <castItem><roleDesc rend="fill(.)">Lawyer</roleDesc><actor>Mr. Gowan</actor></castItem>
+                              <castItem><roleDesc rend="fill(.)">1st Lounger</roleDesc><actor>Mr. Henry</actor></castItem>
+                              <castItem><roleDesc rend="fill(.)">2nd Lounger</roleDesc><actor>Mr. Gritman</actor></castItem>
+                              <castItem><role rend="fill(.)">Camille, (Charlotte)</role><actor>Miss Mestayer</actor></castItem>
                            <cb n="1"/>
-                              <castItem><role>Mrs. Jackwood</role><actor>Miss Palmer</actor></castItem>
-                              <castItem><role>Grandmother Rigglesty</role><actor>Mrs. France</actor></castItem>
-                              <castItem><role>Matilda Fosdick</role><actor>Mrs. Eldridge</actor></castItem>
-                              <castItem><role>Ph&#339;be Jackson</role><actor>Miss A. France</actor></castItem>
+                              <castItem><role rend="fill(.)">Mrs. Jackwood</role><actor>Miss Palmer</actor></castItem>
+                              <castItem><role rend="fill(.)">Grandmother Rigglesty</role><actor>Mrs. France</actor></castItem>
+                              <castItem><role rend="fill(.)">Matilda Fosdick</role><actor>Mrs. Eldridge</actor></castItem>
+                              <castItem><role rend="fill(.)">Ph&#339;be Jackson</role><actor>Miss A. France</actor></castItem>
                            <cb n="2"/>
-                              <castItem><role>Bertha Rukely</role><actor>Mrs.Lingard</actor></castItem>
-                              <castItem><role>Mrs. Greenwich</role><actor>Mrs. Dickson</actor></castItem>
-                              <castItem><role>Etty Greenwich</role><actor>Miss Sheffield</actor></castItem>
-                              <castItem><role>Mrs Sperkley</role><actor>Miss Leslie</actor></castItem>
-                              <castItem><roleDesc>Villagers,</roleDesc></castItem><castItem><roleDesc>Sheriff's Officers,</roleDesc></castItem><castItem><roleDesc>Yankee Gals, &amp;c.</roleDesc></castItem>
+                              <castItem><role rend="fill(.)">Bertha Rukely</role><actor>Mrs.Lingard</actor></castItem>
+                              <castItem><role rend="fill(.)">Mrs. Greenwich</role><actor>Mrs. Dickson</actor></castItem>
+                              <castItem><role rend="fill(.)">Etty Greenwich</role><actor>Miss Sheffield</actor></castItem>
+                              <castItem><role rend="fill(.)">Mrs Sperkley</role><actor>Miss Leslie</actor></castItem>
+                              <castItem><roleDesc rend="fill(.)">Villagers,</roleDesc></castItem><castItem><roleDesc>Sheriff's Officers,</roleDesc></castItem><castItem><roleDesc>Yankee Gals, &amp;c.</roleDesc></castItem>
                         </castList>
                      </div>
                   </body>
                </floatingText>
-            <ab>New Scenery Incidental to the Piece.
-               <lb/>Farmer Jackwood's Kitchen. Exterior of New England Farm House
+            <ab><hi ana="#small #serif">New Scenery Incidental to the Piece.</hi>
+               <lb/><hi rend="align(left)" ana="#small #serif">Farmer Jackwood's Kitchen. Exterior of New England Farm House
                <lb/>and Yard. The Interval. The Interval Inundated. Interior of a Country
-               <lb/>Jail. Interior of the Court House.
+               <lb/>Jail. Interior of the Court House.</hi>
             </ab>
          </div>
          <div type="review">
@@ -143,7 +143,7 @@
                <lb/><hi ana="#medium #serif">UNPARALLELED PROSPERITY</hi>
                <lb/><hi ana="#small #serif">of</hi>
                <lb/><hi ana="#large #sansSerif">THE MUSEUM</hi>
-               <lb/><hi ana="#small #serif">May be regarded, not only as a compliment to their own judgement, and to the taste of their visitors, but as a guaruntee of their
+               <lb/><hi rend="align(left)" ana="#small #serif">May be regarded, not only as a compliment to their own judgement, and to the taste of their visitors, but as a guaruntee of their
                <lb/>unswerving determination to merit the flattering favors they enjoy.</hi>
             </ab> 
          </div>
@@ -158,15 +158,15 @@
             </ab>
             <floatingText>
                <body>
-                  <lg rend="align(center)"><!--I didn't know how to recreate the super long dash so I just put five in a row-->
-                     <l><hi ana="#small #serif">"-----Extended long and large,</hi></l>
+                  <lg rend="align(left)"><!--I didn't know how to recreate the super long dash so I just put five in a row-->
+                     <l rend="indent(5)pre(')"><hi ana="#small #serif">"-----Extended long and large,</hi></l>
                      <l><hi ana="#small #serif">Lay floating many a rood ; in bulk as large</hi></l>
                      <l><hi ana="#small #serif">As whom the fables named -----</hi></l>
                      <l><hi ana="#small #serif">Titanian, or Earth-born that warr'd on Jove,</hi></l>
                      <l><hi ana="#small #serif">Bri&#230;ros or Typhon, whom the den</hi></l>
                      <l><hi ana="#small #serif">By ancient Tarsus held, or that sea beast</hi></l>
                      <l><hi ana="#small #serif">Leviathan, which God of all his works</hi></l>
-                     <l><hi ana="#small #serif">Created hugest."</hi></l>
+                     <l rend="post(')"><hi ana="#small #serif">Created hugest."</hi></l>
                   </lg>
                </body>
             </floatingText>
