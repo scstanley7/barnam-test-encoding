@@ -66,10 +66,8 @@
             </ab>
                <floatingText>
                   <body>
-                     <!--I think we should use renditional defaults to describe this since this whole block looks exactly the same-->
-                     <!--Can i put a hi around this whole block?-->
                      <div type="castList">
-                        <castList>
+                        <castList ana="#small #serif">
                            <castItem><role>Neighbor Jackwood</role><actor>Mr. C. W. Clarke</actor></castItem>
                            <castItem><role>Hector Dunbury</role><actor>Mr. Levick</actor></castItem>
                            <cb n="1"/>
@@ -109,7 +107,7 @@
             </ab>
          </div>
          <div type="review">
-            <head><hi ana="#medium #serif">BARNUM'S AMERICAN MUSEUM</hi></head>
+            <head rend="break(yes)"><hi ana="#medium #serif">BARNUM'S AMERICAN MUSEUM</hi></head>
             <ab><hi ana="#small #serif">Cor. Broadway and Ann St., opposite St. Paul's Church:</hi>
                <lb/><hi ana="#small #serif">Admittance to the whole Museum, the Picture Gallery, the Natural History Department, the Happy
                <lb/> Family, and the Cosmorama Room, as well as the Entertainments in the Lecture Room..25 Cents
@@ -148,8 +146,6 @@
             </ab> 
          </div>
          <div type="advertisement">
-            <!--there is no clear head element, I would argue that the "SEA-SERPENT LIKE SNAKE"
-               poriton of the beginning sentence is the head but it is in the middle of an ab-->
             <ab><hi ana="#small #serif">The size of the Serpent that tempted Eve may be gathered, instructively, from the</hi>
                <lb/><hi ana="#large #serif">SEA-SERPENT LIKE SNAKE</hi>
                <lb/><hi ana="#small #serif">That among the crowd of Anacondas and Boa Constrictors of enormous proportion in the</hi>
@@ -158,7 +154,7 @@
             </ab>
             <floatingText>
                <body>
-                  <lg rend="align(left)"><!--I didn't know how to recreate the super long dash so I just put five in a row-->
+                  <lg rend="align(left)">
                      <l rend="indent(5)pre(')"><hi ana="#small #serif">"-----Extended long and large,</hi></l>
                      <l><hi ana="#small #serif">Lay floating many a rood ; in bulk as large</hi></l>
                      <l><hi ana="#small #serif">As whom the fables named -----</hi></l>
@@ -175,9 +171,8 @@
                <lb/><hi ana="#small #serif">when they feed, and the process of deglutiton with them, is one of the most marvellous in existence.</hi>
                <lb/><hi ana="#large #serif">THE HAPPY FAMILY</hi>
                <lb/><hi ana="#small #serif">Which is too well known to be described,</hi>
+               <add rend="align(left)" place="below" hand="#small">ht4000047</add>
             </ab>
-            <!--There is "ht4000047" written in pencil in the bottom left corner
-               which I don't know what to do with-->
          </div>
       </body>
    </text>
